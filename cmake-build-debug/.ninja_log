@@ -1,0 +1,5 @@
+# ninja log v5
+0	35	1652198672370790883	build.ninja	56fa593351f26cf8
+0	4	0	clean	3c8e6cc385ee00ba
+0	158	1652135374222436593	CMakeFiles/SMM_Optimization.dir/main.c.o	6ef4797bfa665c62
+158	198	1652135374264713604	SMM_Optimization	fd86fe1b43aa7e25
